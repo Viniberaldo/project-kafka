@@ -1,5 +1,7 @@
 # Projeto de experiência com Kafka para fins de estudo
 
+Todos os cŕeditos desse projeto vão para o [Prof. Rogério Napoleão Jr](https://www.youtube.com/@rogerionj) [github Prof Rogerio](https://github.com/rogerionj)
+
 ## Arquitetura do Kafka
 
 O Kafka é uma plataforma de streaming distribuída que funciona como um intermediário de mensagens, facilitando a troca de dados entre produtores e consumidores em tempo real. Ele opera com base no modelo de publicação e assinatura (publish-subscribe) e é utilizado para construir pipelines de dados em tempo real e aplicativos de streaming. Os principais componentes do Kafka são:
